@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/course_images/ios_for_designers/tippydemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/course_images/ios_for_designers/tippy-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
