@@ -26,6 +26,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='/course_images/ios_for_designers/tippy-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![tippy gif](tippy-demo.gif)
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
