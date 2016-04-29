@@ -1,10 +1,10 @@
-# Tip-Calculator# Pre-work - *Name of App Here*
+# Tip-Calculator# Pre-work - Tippy
 
-**Name of your app** is a tip calculator application for iOS.
+Tippy is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Alex Saunders
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -47,5 +47,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-Did stuff
