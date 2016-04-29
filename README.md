@@ -30,11 +30,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The video tutorials were pretty fast, so it took a lot of pasuing and rewinding to keep up.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2016 Alex Saunders
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
